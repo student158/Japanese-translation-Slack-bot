@@ -6,6 +6,7 @@ This Slack bot can automatically and manually translate message in chat between 
 - After the bot is added to the Slack workspace, when we click at "More actions" in each message, we have quick options like this:
 <p align="center"><img src="./images/more-actions.png" height=50% width=50%></p>
 <p align="center"><img src="./images/option-lists.png" height=50% width=50%></p>
+
 - There are 3 options:
     - Manually translate from Japanese to English
     - Manually translate from English to Japanese
